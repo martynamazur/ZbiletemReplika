@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZbiletemReplika</string>
+    <string name="home_nav">Strona główna</string>
+    <string name="buy_nav">Kup</string>
+    <string name="myTickets_nav">Moje bilety</string>
+    <string name="menu_nav">Menu</string>
+
+</resources>
