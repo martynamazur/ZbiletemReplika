@@ -1,5 +1,4 @@
-package com.example.zbiletemreplika.bottomNavigation;
-import android.annotation.SuppressLint;
+package com.example.zbiletemreplika.app.bt;
 import android.os.Bundle;
 import android.os.PersistableBundle;
 import androidx.annotation.Nullable;

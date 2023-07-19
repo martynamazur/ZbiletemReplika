@@ -24,7 +24,7 @@
 
 
         <activity
-            android:name=".bottomNavigation.MainActivity"
+            android:name=".app.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -37,7 +37,7 @@
                 android:value="" />
         </activity>
 
-        <activity android:name=".bottomNavigation.ActivityTransition"/>
+        <activity android:name=".app.bt.ActivityTransition"/>
 
 
     </application>

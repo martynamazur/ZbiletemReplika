@@ -1,4 +1,4 @@
-package com.example.zbiletemreplika.bottomNavigation;
+package com.example.zbiletemreplika.app.bt;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

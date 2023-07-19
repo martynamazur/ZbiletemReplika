@@ -24,5 +24,7 @@
     <color name="stroke_grey">#E3E3E3</color>
     <color name="green_active">#7ACC73</color>
 
+    <color name="thumb_grey">#ECECEC</color>
+
 
 </resources>

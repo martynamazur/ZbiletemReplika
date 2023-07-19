@@ -1,4 +1,4 @@
-package com.example.zbiletemreplika.bottomNavigation;
+package com.example.zbiletemreplika.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 

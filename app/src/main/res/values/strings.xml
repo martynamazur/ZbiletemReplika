@@ -21,6 +21,7 @@
     <string name="sendAgain">Wyślij ponownie</string>
     <string name="singIn">Zaloguj</string>
     <string name="buy">Kup</string>
+    <string name="continue_btn">Kontynuuj</string>
 
     <!--- Kup screen  -->
     <string name="change_localization">Zmień lokalizacje</string>
@@ -36,15 +37,85 @@
     <string name="reset">Reset</string>
 
 
-    <!--- Filtry -->
+    <!--- Portfel -->
+    <string name="wallet_navigation">Portfel</string>
+    <string name="wallet_balance">Saldo twojego portfela</string>
+    <string name="transaction_history">Zobacz swoją historie transakcji</string>
+    <string name="wallet_headline">Dodaj środki do twojego portfela</string>
+    <string name="wallet_description">Wybierz kwote doladowania suwakiem. Portfelem mozesz placic wylacznie za bilety jednorazowe w aplikacji</string>
+    <string name="add_funds">Kwota doladowania:</string>
+
+    <!-- Wybierz metode platnosci -->
+    <string name="choose_payment_method">Wybierz metode platnosci</string>
+    <string name="your_cards">Twoje karty</string>
+    <string name="mobile_payment">Mobilne płatności</string>
+    <string name="bank_payments">Przelew bankowy</string>
+    <string name="add_card">Dodaj karte</string>
+    
+    <!-- Menu -->
+    <string name="payments">Płatności</string>
+    <string name="wallet">Portfel</string>
+    <string name="add_payment_method">Dodaj metode płatności</string>
+    
+    <string name="account">Konto</string>
+    <string name="settings">Ustawienia</string>
+    <string name="sing_out">Wyloguj</string>
+    
+    <string name="about_us">O nas</string>
+    <string name="contact_inf">Kontakt</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="terms_of_services">Warunki korzystania z serwisu</string>
+    <string name="recommend_to_friends">Poleć aplikacje swoim znajomym</string>
+    <string name="social_media_follow_us">Znajdziesz nas</string>
+
+    <!-- Ustawienia -->
+    <string name="brand_name">zbiletem.pl</string>
+    <string name="app_version"> Wersja aplikacji:</string>
+    <string name="my_phone_number">Mój numer telefonu:</string>
+    <string name="localization">Lokalizacja</string>
+
+    <string name="agreement_change_in_the_background"> Automatyczna zmiana w tle</string>
+    <string name="description_change_in_the_background">Zezwalaj apliakcji na automatyczne zmianę miasta na podsatwie Twojej lokalizacji</string>
+
+    <string name="agreement_ask_for_permission">Pytaj o pozwolenie</string>
+    <string name="description_noti_ask_for_permission">Zezwalaj apliakcji na sugerowanie/zmianę miasta na podstawie Twojej lokalizacji</string>
+
+    <string name="agreement_reject">Odmów</string>
+    <string name="description_reject">Zezwalaj apliakcji na sugerowanie/zmianę miasta na podstawie Twojej lokalizacji</string>
+    
+    
+    <string name="notification">Powiadomienia</string>
+    <string name="noti_send_email">Powiadomienie email o końcu ważności biletu okresowego</string>
+    <string name="description_noti_send_email">Chcę otzrymywać wiadomości email z informacją o końcu ważności biletu okresowego</string>
+
+    <string name="noti_mobile">Przypomnienie o końcu ważności biletu okresowego na urzędzeniu mobilnym</string>
+    <string name="description_noti_mobile">Chcę otzrymywać wiadomości email z informacją o końcu ważności biletu okresowego</string>
 
 
+    <string name="add_widgets">Dodaj widgety</string>
+    <string name="widget_your_active_ticket">Twój aktywny bilet</string>
+    <string name="widget_most_purchased">Najczęściej kupowane</string>
+    <string name="widget_your_fav_stops">Twoje ulubione przystanki</string>
 
 
+    <!--Strona główna -->
+    <string name="last_picked_cities">Ostatnie:</string>
+    <string name="your_most_purchased">Najczęściej kupowane</string>
+    <string name="active_tickets">Aktywne bilety</string>
 
-
-
-
+    <!-- Moje bilety -->
+    <string name="click_to_zoom">Kliknij aby powiększyć</string>
+    <string name="status">Status:</string>
+    <string name="active">Aktywne</string>
+    <string name="inactive">Nieaktywne</string>
+    <string name="all">Wszystkie</string>
+    <string name="price">Cena:</string>
+    <string name="type">Typ</string>
+    <string name="validity">Ważność</string>
+    <string name="buy_again">Kup ponownie</string>
+    <string name="check_ticket_history">Zobacz historię</string>
+    <string name="nav_ticket_details">Szczegoly</string>
+    <string name="default_empty_number" />
 
 
 </resources>
