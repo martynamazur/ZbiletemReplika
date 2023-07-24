@@ -10,6 +10,7 @@
     <string name="descripion_inf_logIn">NUmer telefonu bęzie powiaąznay z bileami które kupisz w tej aplikacji oraz biletami okresowymi kupionymi w sklepie internetowym. Twój numer telfonu będzie też potrzebny w przypadku reklamacji.Nie wymagamy od ciebie żadnych innych danych. Numer telefonu wystarczy aby podróżować wygodniej z tą apką.</string>
     <string name="headline_description_ing_logIn">Dlaczego potrzebujemy twojego numeru ?</string>
     <string name="termsOfService">Akceptuje regulamin oraz politykę prywatności</string>
+    <string name="messageWarningTerms">Aby korzystać z apliakcji konieczne jest zakceptowanie regulaminu i polityki prywatności</string>
 
     <!--- Weryfikacja -->
     <string name="headline_verification">Weryfikacja</string>
