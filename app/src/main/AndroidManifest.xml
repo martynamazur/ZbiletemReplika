@@ -24,7 +24,7 @@
 
 
         <activity
-            android:name=".app.MainActivity"
+            android:name=".app.bt.ActivityTransition"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -37,7 +37,12 @@
                 android:value="" />
         </activity>
 
-        <activity android:name=".app.bt.ActivityTransition"/>
+        <activity android:name=".app.Verification"/>
+        <activity android:name=".app.menu.payments.Wallet"/>
+        <activity android:name=".app.menu.payments.PaymentsMethod"/>
+
+
+
 
 
     </application>

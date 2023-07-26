@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812902651490",
+    "firebase_url": "https://zbiletem-14d56-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "zbiletem-14d56",
+    "storage_bucket": "zbiletem-14d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812902651490:android:f4e20854e9fd6dd8d9a33b",
+        "android_client_info": {
+          "package_name": "com.example.zbiletemreplika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812902651490-juuf515bh02hamig7npmk9pqpr33rano.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zbiletemreplika",
+            "certificate_hash": "391b016fee830c9d9abd4202acab31a632fda771"
+          }
+        },
+        {
+          "client_id": "812902651490-jagiqnoibkfrcr0hkpklhbmk3q422cqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22nQU-AErNARg2Ow_qVwVruRmJd8I_j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812902651490-jagiqnoibkfrcr0hkpklhbmk3q422cqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

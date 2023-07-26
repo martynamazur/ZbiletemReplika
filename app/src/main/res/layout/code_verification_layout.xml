@@ -45,6 +45,7 @@
             android:layout_height="match_parent">
 
             <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputCode"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="hint" />
@@ -52,7 +53,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/checkCodeBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/singIn" />

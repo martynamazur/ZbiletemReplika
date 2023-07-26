@@ -9,4 +9,25 @@
         <item name="android:layout_marginBottom">8dp</item>
 
     </style>
+
+    <style name="AppTheme.NoMarginBottomNav" parent="AppTheme">
+        <item name="android:layout_marginBottom">0dp</item>
+    </style>
+
+    <style name="AppBottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="android:background">@color/bottom_navigation_background</item> <!-- Tło paska -->
+        <item name="itemIconSize">48dp</item> <!-- Rozmiar ikon -->
+        <item name="itemTextAppearanceActive">@style/AppBottomNavTextActive</item> <!-- Styl aktywnych etykiet -->
+        <item name="itemTextAppearanceInactive">@style/AppBottomNavTextInactive</item> <!-- Styl nieaktywnych etykiet -->
+    </style>
+
+    <style name="AppBottomNavTextActive" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/bottom_navigation_background</item> <!-- Kolor aktywnych etykiet -->
+    </style>
+
+    <style name="AppBottomNavTextInactive" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/bottom_navigation_background</item> <!-- Kolor nieaktywnych etykiet -->
+    </style>
+
+
 </resources>

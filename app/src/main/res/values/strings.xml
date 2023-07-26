@@ -103,6 +103,7 @@
     <string name="last_picked_cities">Ostatnie:</string>
     <string name="your_most_purchased">Najczęściej kupowane</string>
     <string name="active_tickets">Aktywne bilety</string>
+    <string name="change">Zmień</string>
 
     <!-- Moje bilety -->
     <string name="click_to_zoom">Kliknij aby powiększyć</string>
